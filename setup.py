@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
      name='qask',
-     version='0.1',
+     version='0.1.4',
      install_requires=[
         'Click',
      ],
